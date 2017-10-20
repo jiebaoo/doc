@@ -1,3 +1,3 @@
 # Spring Cloud
---COORDINATE ANYTHING
-http://projects.spring.io/spring-cloud/
+## COORDINATE ANYTHING
+> http://projects.spring.io/spring-cloud/
